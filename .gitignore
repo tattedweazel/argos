@@ -1,0 +1,7 @@
+*.json
+*.pem
+*.zip
+extract/*.*
+__pycache__/
+*.py[cod]
+.idea/*
